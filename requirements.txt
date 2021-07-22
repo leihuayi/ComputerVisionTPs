@@ -1,0 +1,4 @@
+jupyterlab
+matplotlob
+opencv-contrib-python
+scikit-image>=0.10.0
